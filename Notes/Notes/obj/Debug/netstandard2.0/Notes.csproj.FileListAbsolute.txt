@@ -1,0 +1,16 @@
+C:\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPageView.xaml.g.cs

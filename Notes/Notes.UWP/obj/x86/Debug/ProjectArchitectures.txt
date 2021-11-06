@@ -1,0 +1,1 @@
+C:\repos\Notes\Notes\Notes.UWP\Notes.UWP.csproj;x86
